@@ -1,3 +1,7 @@
+" plugins
+" restore_view.vim - to save vim views/folds
+" gtags.vim - to use gtags in vim easily
+
 "tab width
 set tabstop=4
 set shiftwidth=4
